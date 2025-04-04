@@ -7,7 +7,14 @@ export const GlobalStyle = createGlobalStyle`
         -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background: #e0e0e0;
+    
+    
   }
+  @media (max-width: 768px) {
+  body {
+    font-family: poppins; /* Isso vai mudar a fonte no mobile */
+  }
+}
 
   code {
     font-family: poppins;
