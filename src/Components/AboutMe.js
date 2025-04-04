@@ -91,12 +91,12 @@ const AboutMe = () => (
   <source src="/ice-cream-background.mp4" type="video/mp4" />
   Seu navegador não suporta o elemento de vídeo.
 </VideoBackground>
-    <ProfilePic src='https://scontent.fgru6-1.fna.fbcdn.net/v/t39.30808-6/487825839_122098907432826446_4470427094939653787_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=BfYvwxlgFhMQ7kNvwFGvaU7&_nc_oc=AdnJVgPlb_lvmT6PSv52kIaiTnsjklIKpPCSRFftm2YGwSFNEZiBMKGdny1zn4y7MGbBbPf_nPwEPfoAJum_tSKp&_nc_zt=23&_nc_ht=scontent.fgru6-1.fna&_nc_gid=v2Iz0s7BSBXvIWE0tn4TDw&oh=00_AYHoV--68focSlVO1-PRsB9b1l_6dw1mNb3R_iudCI73CQ&oe=67F4C9C5' alt="Minha foto de perfil" />
+    <ProfilePic src='https://scontent.fgru6-1.fna.fbcdn.net/v/t39.30808-6/488620529_122105349932820625_9064107230385247589_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=bdeb5f&_nc_ohc=izIWcFAS85YQ7kNvwGoo_5R&_nc_oc=Adn0b3pmo6oUFXxTOiI1WsxlcKFz-dglsFGASpXTKR0IoKgX9sGb0rkO7QHIcV0N3r1IcftBnnCFTqtV591T9g0R&_nc_zt=23&_nc_ht=scontent.fgru6-1.fna&_nc_gid=N2wrJadz2FGwPwbmsXOfMg&oh=00_AYFkj4JTgRxopxnGu7aPZf59M9X6X_0VRMNxkY3ZUIrMww&oe=67F4A7D6' alt="Minha foto de perfil" />
     
     <Subtitle>
     <Title>Sobre Nós</Title>
-    Mineirinho Ice é uma empresa especializada na criação de geladinhos gourmet e de sovertes, combinando sabores autênticos, ingredientes de alta qualidade e uma apresentação irresistível. Nossa missão é transformar um simples geladinho em uma experiência única, trazendo    </Subtitle>
-    <Button href="" download="Catálogo_Mineirinho.pdf"><b>VER NOSSO CATÁLOGO</b></Button>
+    Mineirinho Ice é uma empresa especializada na criação de geladinhos gourmet e de sovertes, combinando sabores autênticos, ingredientes de alta qualidade e uma apresentação irresistível. Nossa missão é transformar um simples geladinho em uma experiência única.   </Subtitle>
+    <Button href="" download="Catalogo_Mineirinho.pdf"><b>VER NOSSO CATÁLOGO</b></Button>
   </AboutWrapper>
 );
 
