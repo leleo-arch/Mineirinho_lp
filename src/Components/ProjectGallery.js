@@ -238,7 +238,7 @@ const ProjectGallery = () => {
             <h2>{selectedProject.title}</h2>
             <p>{selectedProject.description}</p>
             <ProjectImage src={selectedProject} alt={selectedProject.title} effect="blur" />
-            <ProjectButton href= 'https://wa.me/5511965531504' target="_blank" rel="noopener noreferrer">
+            <ProjectButton href= 'https://wa.me/5511996802044' target="_blank" rel="noopener noreferrer">
             Entre em Contato
             </ProjectButton>
             <button onClick={closeModal}>Fechar</button>
